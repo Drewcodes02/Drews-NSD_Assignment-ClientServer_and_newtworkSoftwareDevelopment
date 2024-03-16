@@ -1,4 +1,4 @@
-NSD Assignment Server
+# NSD Assignment Project
 Project Overview
 This project implements a prototype of a Twitter-like social media application tailored for the Sheffield Hallam University student community. Utilizing client-server architecture and network software development techniques, it allows clients to publish messages, subscribe to channels, and read messages from channels they've subscribed to. This server supports multiple concurrent client connections, message persistence, and multimedia attachments.
 
